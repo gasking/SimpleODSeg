@@ -29,4 +29,5 @@
 #### How to work?
 * **<u>predict.py can be used to detect Minion, weight file location logs_od.</u>**
 * <u>**predict_seg.py can be used to detect Minion, weight file location logs_seg.**</u>
+* **pip install -r requirements.txt -i https:mirrors.aliyun.com/pypi/simple**
 
